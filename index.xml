@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Life and Times of Ultra Bro</title>
+    <link>https://eterry28.github.io/</link>
+    <description>Recent content on The Life and Times of Ultra Bro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Thu, 29 Aug 2024 17:20:11 -0500</lastBuildDate><atom:link href="https://eterry28.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comrade Cola Company</title>
+      <link>https://eterry28.github.io/posts/comrade-cola-company/</link>
+      <pubDate>Thu, 29 Aug 2024 17:20:11 -0500</pubDate>
+      
+      <guid>https://eterry28.github.io/posts/comrade-cola-company/</guid>
+      <description>This is the content of the Comrade Cola Company.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
