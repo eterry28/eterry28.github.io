@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Home on The Life and Times of Ultra Bro</title>
+    <link>https://eterry28.github.io/</link>
+    <description>Recent content in My Home on The Life and Times of Ultra Bro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>eterry28@gmail.com (Eric Terry)</managingEditor>
+    <webMaster>eterry28@gmail.com (Eric Terry)</webMaster>
+    <copyright>© 2024 Eric Terry</copyright>
+    <lastBuildDate>Sun, 01 Sep 2024 09:27:09 -0500</lastBuildDate><atom:link href="https://eterry28.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oppress Your Thirst</title>
+      <link>https://eterry28.github.io/comrade-cola/oppress-your-thirst/</link>
+      <pubDate>Sun, 01 Sep 2024 09:27:09 -0500</pubDate>
+      <author>eterry28@gmail.com (Eric Terry)</author>
+      <guid>https://eterry28.github.io/comrade-cola/oppress-your-thirst/</guid>
+      <description>Comrade Cola – Oppress Your Thirst! # First of all, I had one of the weirdest dreams after reading 1984, World War Z, and the latest from the In Death series.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://eterry28.github.io/comrade-cola/oppress-your-thirst/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Comrade Cola Company</title>
+      <link>https://eterry28.github.io/comrade-cola/comrade-cola-company/</link>
+      <pubDate>Thu, 29 Aug 2024 17:20:11 -0500</pubDate>
+      <author>eterry28@gmail.com (Eric Terry)</author>
+      <guid>https://eterry28.github.io/comrade-cola/comrade-cola-company/</guid>
+      <description>The original post of this content is from July 20, 2019.
+First of all, I had one of the weirdest dreams after reading 1984, World War Z, and the latest from the In Death series.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://eterry28.github.io/comrade-cola/comrade-cola-company/featured.webp" />
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://eterry28.github.io/posts/first-post/</link>
+      <pubDate>Thu, 29 Aug 2024 17:20:11 -0500</pubDate>
+      <author>eterry28@gmail.com (Eric Terry)</author>
+      <guid>https://eterry28.github.io/posts/first-post/</guid>
+      <description>The original post of this content is from July 20, 2019.
+First of all, I had one of the weirdest dreams after reading 1984, World War Z, and the latest from the In Death series.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
