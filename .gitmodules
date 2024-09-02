@@ -9,4 +9,4 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/eterry28/eterry28.github.io.git
-	branch = master
+	branch = main
