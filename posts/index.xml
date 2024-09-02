@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Life and Times of Ultra Bro</title>
+    <link>https://eterry28.github.io/posts/</link>
+    <description>Recent content in Posts on The Life and Times of Ultra Bro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>eterry28@gmail.com (Eric Terry)</managingEditor>
+    <webMaster>eterry28@gmail.com (Eric Terry)</webMaster>
+    <copyright>© 2024 Eric Terry</copyright>
+    <lastBuildDate>Wed, 31 Jul 2024 17:20:11 -0500</lastBuildDate><atom:link href="https://eterry28.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Future of Quality - Trends and Predictions</title>
+      <link>https://eterry28.github.io/posts/the-future-of-quality-trends-and-predictions/</link>
+      <pubDate>Wed, 31 Jul 2024 17:20:11 -0500</pubDate>
+      <author>eterry28@gmail.com (Eric Terry)</author>
+      <guid>https://eterry28.github.io/posts/the-future-of-quality-trends-and-predictions/</guid>
+      <description>Introduction to Software Quality Trends # Please allow me to clarify the distinction between Quality Assurance (QA) and Quality Control (QC). QA is proactive and focuses on the process, while QC concentrates on inspection.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
