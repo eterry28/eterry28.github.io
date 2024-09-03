@@ -2,39 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Life and Times of Ultra Bro</title>
-    <link>https://eterry28.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on The Life and Times of Ultra Bro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>eterry28@gmail.com (Eric Terry)</managingEditor>
     <webMaster>eterry28@gmail.com (Eric Terry)</webMaster>
     <copyright>© 2024 Eric Terry</copyright>
-    <lastBuildDate>Fri, 30 Aug 2024 08:12:53 -0500</lastBuildDate><atom:link href="https://eterry28.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Sep 2024 10:57:32 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Rocktober Is Coming</title>
-      <link>https://eterry28.github.io/posts/rocktober-is-coming/</link>
-      <pubDate>Fri, 30 Aug 2024 08:12:53 -0500</pubDate>
+      <title>The Future of Quality - Trends and Predictions</title>
+      <link>http://localhost:1313/posts/the-future-of-quality-trends-and-predictions/</link>
+      <pubDate>Wed, 31 Jul 2024 17:20:11 -0500</pubDate>
       <author>eterry28@gmail.com (Eric Terry)</author>
-<<<<<<< HEAD
-      <guid>https://eterry28.github.io/posts/the-future-of-quality-trends-and-predictions/</guid>
+      <guid>http://localhost:1313/posts/the-future-of-quality-trends-and-predictions/</guid>
       <description>Introduction to Software Quality Trends # Please allow me to clarify the distinction between Quality Assurance (QA) and Quality Control (QC). QA is proactive and focuses on the process, while QC concentrates on inspection.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://eterry28.github.io/posts/the-future-of-quality-trends-and-predictions/featured.png" />
-=======
-      <guid>https://eterry28.github.io/posts/rocktober-is-coming/</guid>
-      <description>I gave myself a bit of a challenge in 2021. No doubt you have seen monthly list like #Inktober or #NaNoWriMo. For me, it was #Rocktober.</description>
-      
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>https://eterry28.github.io/posts/first-post/</link>
-      <pubDate>Thu, 29 Aug 2024 17:20:11 -0500</pubDate>
-      <author>eterry28@gmail.com (Eric Terry)</author>
-      <guid>https://eterry28.github.io/posts/first-post/</guid>
-      <description>The original post of this content is from July 20, 2019.
-First of all, I had one of the weirdest dreams after reading 1984, World War Z, and the latest from the In Death series.</description>
-      
->>>>>>> 8607ee8047974c20ddaab8cca8d43f0b156197ce
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/the-future-of-quality-trends-and-predictions/featured.png" />
     </item>
     
   </channel>
