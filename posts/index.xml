@@ -15,6 +15,11 @@
       <link>https://eterry28.github.io/posts/rocktober-is-coming/</link>
       <pubDate>Fri, 30 Aug 2024 08:12:53 -0500</pubDate>
       <author>eterry28@gmail.com (Eric Terry)</author>
+<<<<<<< HEAD
+      <guid>https://eterry28.github.io/posts/the-future-of-quality-trends-and-predictions/</guid>
+      <description>Introduction to Software Quality Trends # Please allow me to clarify the distinction between Quality Assurance (QA) and Quality Control (QC). QA is proactive and focuses on the process, while QC concentrates on inspection.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://eterry28.github.io/posts/the-future-of-quality-trends-and-predictions/featured.png" />
+=======
       <guid>https://eterry28.github.io/posts/rocktober-is-coming/</guid>
       <description>I gave myself a bit of a challenge in 2021. No doubt you have seen monthly list like #Inktober or #NaNoWriMo. For me, it was #Rocktober.</description>
       
@@ -29,6 +34,7 @@
       <description>The original post of this content is from July 20, 2019.
 First of all, I had one of the weirdest dreams after reading 1984, World War Z, and the latest from the In Death series.</description>
       
+>>>>>>> 8607ee8047974c20ddaab8cca8d43f0b156197ce
     </item>
     
   </channel>
